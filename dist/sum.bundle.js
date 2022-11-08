@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebpack_fundamental=self.webpackChunkwebpack_fundamental||[]).push([[644],{72:function(e,n,a){var u=a(486),c=a.n(u);console.log(c().join(["Sum","module","loaded!!","Deepa Adhikari"]," "))}},function(e){e(e.s=72)}]);

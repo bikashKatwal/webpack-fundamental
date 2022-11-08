@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebpack_fundamental=self.webpackChunkwebpack_fundamental||[]).push([[826],{497:function(n,a,e){var l=e(486),u=e.n(l);console.log(u().join(["Index","module","loaded!!","Bikash Katwal"]," "))}},function(n){n(n.s=497)}]);
